@@ -1,0 +1,16 @@
+table, td, th {
+  border : 1px solid black;
+  border-collapse: collapse;  
+  text-align: center;
+}
+
+table {
+  width: 200px ;
+}
+
+input {
+  width: 98%;
+  border: 0px;
+  outline: none;
+  text-align: center;
+}
